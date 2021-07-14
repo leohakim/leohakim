@@ -39,6 +39,7 @@ ___
 📝 studying: **Master de Desarrollo de Software** in [EscuelaIT](https://www.escuela.it/)
 
 📚 reading: **Test Driven Development with Python** Harry J. W. Percival [Link](https://www.amazon.com/Test-Driven-Development-Python-Selenium-JavaScript/dp/1491958707)
+            **La cultura: Todo lo que hay que saber (Spanish Edition)** Dietrich Schwanitz [Link](https://www.amazon.it/cultura-Todo-que-saber-Spanish-ebook/dp/B07CBDR5FS/)
 
 ___
 
