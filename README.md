@@ -54,7 +54,7 @@ ___
 
 📫 How to reach me: 
 
-[![gmail](https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=Gmail)](emailto:leohakim@gmail.com)
+leohakim@gmail.com
 
 
 <!--
