@@ -40,6 +40,7 @@ ___
 🌱 learning: 
 
 - **Terraform**
+- **CI / CD**
 - **ReactJs**
 
 📝 studying: 
