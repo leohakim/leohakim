@@ -37,21 +37,41 @@ ___
 
 - **Milan, Italy**
 
+---
+
 🌱 learning: 
 
 - **Terraform**
 - **CI / CD**
 - **ReactJs**
 
+---
+
 📝 studying: 
 
 - **Master de Desarrollo de Software** in [EscuelaIT](https://www.escuela.it/)
+
+---
+
+🌐 collaborating:
+
+- **BackGammon Game** Coding Practice from Master de Desarrollo de Software. #TDD, #UML, #MVC, #Patterns, #UnitTesting [repo](https://github.com/USantaTecla-game-backgammon/backgammon) 
+
+---
 
 📚 reading: 
 
 - **Test Driven Development with Python** Harry J. W. Percival [Link](https://www.amazon.com/Test-Driven-Development-Python-Selenium-JavaScript/dp/1491958707)
             
 - **La cultura: Todo lo que hay que saber (Spanish Edition)** Dietrich Schwanitz [Link](https://www.amazon.it/cultura-Todo-que-saber-Spanish-ebook/dp/B07CBDR5FS/)
+
+---
+
+⭐️ recommendations:
+
+- **Decoupled Django** Understand and Build Decoupled Django Architectures for JavaScript Front-ends — Valentino Gagliardi [Link](https://www.amazon.com/Decoupled-Django-Understand-Architectures-JavaScript/dp/1484271432/)
+
+- **Mastering Python Design Patterns** A guide to creating smart, efficient, and reusable software. Second Edition. - Kamon Ayeba and Sakis Kasampalis [Link](https://www.amazon.com/-/es/Kamon-Ayeva/dp/1788837487/)
 
 ___
 
