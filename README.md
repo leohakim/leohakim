@@ -2,7 +2,7 @@
 
 #### About me 🚀
 
-##### 🧑‍💻 I'm Leonardo Hakim, a **Python Backend Engineer**
+##### 🧑‍💻 I'm Leonardo Hakim, **Python Engineer** currently working in the IoT industry.
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leohakim/)
 
@@ -13,7 +13,6 @@ ___
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Django Rest](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-A9CC54?style=for-the-badge&logo=Celery&logoColor=white)
 
@@ -24,13 +23,15 @@ ___
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-E83E8C?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
+![Terraform](https://img.shields.io/badge/Terraform-844fba?style=for-the-badge&logo=Terraform&logoColor=white)
 ![GithubActions](https://img.shields.io/badge/Github%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-5E4576?style=for-the-badge&logo=sentry&logoColor=white)
+
+![Wireguard](https://img.shields.io/badge/WireGuard-ae373a?style=for-the-badge&logo=WireGuard&logoColor=white)
 
 
 
@@ -38,16 +39,16 @@ ___
 
 #### I’m currently...
 
-🇮🇹 live in: 
+🇩🇪 live in: 
 
-- **Milan, Italy**
+- **Leipzig, Germany**
 
 ---
 
 🌱 learning: 
 
-- **Terraform**
-- **ReactJs**
+- **Lit**
+- **ReactNative**
 
 ---
 
