@@ -47,32 +47,22 @@ ___
 
 🌱 learning: 
 
-- **Lit**
 - **ReactNative**
-
----
-
-📝 studying: 
-
-- **Software Development Master Course** in [EscuelaIT](https://www.escuela.it/) - Barcelona - Spain
-
----
-
-🌐 collaborating:
-
-- **BackGammon Game** Coding Practice from Master de Desarrollo de Software. #TDD, #UML, #MVC, #Patterns, #UnitTesting [repo](https://github.com/USantaTecla-game-backgammon/backgammon) 
+- **Kubernetes**
 
 ---
 
 📚 reading: 
 
-- **Test Driven Development with Python** Harry J. W. Percival [Link](https://www.amazon.com/Test-Driven-Development-Python-Selenium-JavaScript/dp/1491958707)
-            
-- **Clean Code in Python** Mariano Anaya [Link](https://www.amazon.it/Clean-Code-Python-maintainable-efficient/dp/1800560214/)
+- **97 Things Every Software Architect Should Know** Edited by Richard Monson-Haefel [Link](https://www.amazon.com/97-Things-Every-Software-Architect-Should-Know/dp/059652269X)
 
 ---
 
 ⭐️ recommendations:
+
+- **Test Driven Development with Python** Harry J. W. Percival [Link](https://www.amazon.com/Test-Driven-Development-Python-Selenium-JavaScript/dp/1491958707)
+            
+- **Clean Code in Python** Mariano Anaya [Link](https://www.amazon.it/Clean-Code-Python-maintainable-efficient/dp/1800560214/)
 
 - **Decoupled Django** Understand and Build Decoupled Django Architectures for JavaScript Front-ends — Valentino Gagliardi [Link](https://www.amazon.com/Decoupled-Django-Understand-Architectures-JavaScript/dp/1484271432/)
 
