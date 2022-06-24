@@ -47,8 +47,8 @@ ___
 
 🌱 learning: 
 
-- **ReactNative**
 - **Kubernetes**
+- **React Native**
 
 ---
 
