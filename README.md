@@ -12,6 +12,7 @@ ___
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Django Rest](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Starlette](https://img.shields.io/badge/starlette-000000?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-A9CC54?style=for-the-badge&logo=Celery&logoColor=white)
@@ -41,14 +42,7 @@ ___
 
 🇩🇪 live in: 
 
-- **Leipzig, Germany**
-
----
-
-🌱 learning: 
-
-- **Kubernetes**
-- **React Native**
+- **Barcelona, Spain**
 
 ---
 
