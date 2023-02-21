@@ -40,7 +40,7 @@ ___
 
 #### I’m currently...
 
-🇩🇪 live in: 
+🇪🇸 live in: 
 
 - **Barcelona, Spain**
 
@@ -48,7 +48,7 @@ ___
 
 📚 reading: 
 
-- **97 Things Every Software Architect Should Know** Edited by Richard Monson-Haefel [Link](https://www.amazon.com/97-Things-Every-Software-Architect-Should-Know/dp/059652269X)
+- **Modern Full-Stack Development 2nd ed. by Frank Zammetti [Link](https://www.amazon.com/Modern-Full-Stack-Development-TypeScript-Node-js/dp/1484257375)
 
 ---
 
@@ -63,6 +63,8 @@ ___
 - **Mastering Python Design Patterns** A guide to creating smart, efficient, and reusable software. Second Edition. - Kamon Ayeba and Sakis Kasampalis [Link](https://www.amazon.com/-/es/Kamon-Ayeva/dp/1788837487/)
 
 - **Two Scoops of Django 3.x** The alpha release of the 4th edition of Two Scoops of Django is out. With over 500 pages of material, you'll find best practices that will improve all your Django projects. [Link](https://www.feldroy.com/books/two-scoops-of-django-3-x)
+
+- **97 Things Every Software Architect Should Know** Edited by Richard Monson-Haefel [Link](https://www.amazon.com/97-Things-Every-Software-Architect-Should-Know/dp/059652269X)
 
 ___
 
