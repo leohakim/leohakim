@@ -48,11 +48,13 @@ ___
 
 📚 reading: 
 
-- **Modern Full-Stack Development 2nd ed. by Frank Zammetti [Link](https://www.amazon.com/Modern-Full-Stack-Development-TypeScript-Node-js/dp/1484257375)
+- **The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise by Gregor Hohpe [Link](https://a.co/d/isK8edG)
 
 ---
 
 ⭐️ recommendations:
+
+- **Modern Full-Stack Development 2nd ed. by Frank Zammetti [Link](https://www.amazon.com/Modern-Full-Stack-Development-TypeScript-Node-js/dp/1484257375)
 
 - **Test Driven Development with Python** Harry J. W. Percival [Link](https://www.amazon.com/Test-Driven-Development-Python-Selenium-JavaScript/dp/1491958707)
             
