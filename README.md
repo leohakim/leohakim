@@ -2,7 +2,7 @@
 
 #### About me 🚀
 
-##### 🧑‍💻 I'm Leonardo Hakim, **Python Engineer** currently working in the IoT industry.
+##### 🧑‍💻 I'm Leonardo Hakim, **Software Engineer** currently working in the Media industry.
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leohakim/)
 
@@ -48,25 +48,27 @@ ___
 
 📚 reading: 
 
-- **The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise by Gregor Hohpe [Link](https://a.co/d/isK8edG)
+- **The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise** Gregor Hohpe [Link](https://a.co/d/isK8edG)
 
 ---
 
 ⭐️ recommendations:
 
-- **Modern Full-Stack Development 2nd ed. by Frank Zammetti [Link](https://www.amazon.com/Modern-Full-Stack-Development-TypeScript-Node-js/dp/1484257375)
+- **Fundamentals of Software Architecture - An Engineering Approach** Mark Richards & Neal Ford [Link](https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451)
+
+- **Modern Full-Stack Development 2nd ed.** Frank Zammetti [Link](https://www.amazon.com/Modern-Full-Stack-Development-TypeScript-Node-js/dp/1484257375)
 
 - **Test Driven Development with Python** Harry J. W. Percival [Link](https://www.amazon.com/Test-Driven-Development-Python-Selenium-JavaScript/dp/1491958707)
             
 - **Clean Code in Python** Mariano Anaya [Link](https://www.amazon.it/Clean-Code-Python-maintainable-efficient/dp/1800560214/)
 
-- **Decoupled Django** Understand and Build Decoupled Django Architectures for JavaScript Front-ends — Valentino Gagliardi [Link](https://www.amazon.com/Decoupled-Django-Understand-Architectures-JavaScript/dp/1484271432/)
+- **Decoupled Django - Understand and Build Decoupled Django Architectures for JavaScript Front-ends** Valentino Gagliardi [Link](https://www.amazon.com/Decoupled-Django-Understand-Architectures-JavaScript/dp/1484271432/)
 
-- **Mastering Python Design Patterns** A guide to creating smart, efficient, and reusable software. Second Edition. - Kamon Ayeba and Sakis Kasampalis [Link](https://www.amazon.com/-/es/Kamon-Ayeva/dp/1788837487/)
+- **Mastering Python Design Patterns - A guide to creating smart, efficient, and reusable software. Second Edition.** Kamon Ayeba and Sakis Kasampalis [Link](https://www.amazon.com/-/es/Kamon-Ayeva/dp/1788837487/)
 
-- **Two Scoops of Django 3.x** The alpha release of the 4th edition of Two Scoops of Django is out. With over 500 pages of material, you'll find best practices that will improve all your Django projects. [Link](https://www.feldroy.com/books/two-scoops-of-django-3-x)
+- **Two Scoops of Django 3.x - Best practices for the Django Web Framework** Daniel Roy Greenfield & Audrey Roy Greenfield [Link](https://www.feldroy.com/books/two-scoops-of-django-3-x)
 
-- **97 Things Every Software Architect Should Know** Edited by Richard Monson-Haefel [Link](https://www.amazon.com/97-Things-Every-Software-Architect-Should-Know/dp/059652269X)
+- **97 Things Every Software Architect Should Know** Richard Monson-Haefel [Link](https://www.amazon.com/97-Things-Every-Software-Architect-Should-Know/dp/059652269X)
 
 ___
 
